@@ -2,21 +2,24 @@
     {
         "id":1,
         "nome":"porta de acacia",
-        "nota":"9/10"
-    },
+        "nota":"9/10",
+        "cor": "laranja"    },
     {
         "id":2,
         "nome":"porta de oak",
-        "nota":"10/10"
+        "nota":"10/10",
+        "cor": "marrom claro"
     },
         {
         "id":3,
         "nome":"porta de bamboo",
-        "nota":"10/10"
+        "nota":"10/10",
+        "cor": "branca"
     },
         {
         "id":4,
         "nome":"porta de birch",
-        "nota":"2/10"
+        "nota":"2/10",
+        "cor": "branca"
     }
 ]
