@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nome":"bicicleta",
+        "combustivel":"força sinética"
+    },
+    {
+        "id":2,
+        "nome":"carro",
+        "combustivel":"gasolina"
+    },
+    {
+        "id":3,
+        "nome":"caminhão",
+        "combustivel":"diesel"
+    },
+    {
+        "id":4,
+        "nome":"avião",
+        "combustivel":"gasolina"
+    }
+]

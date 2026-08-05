@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nome":"pizza",
+        "sabor":"salgado/doce"
+    },
+    {
+        "id":2,
+        "nome":"sopa",
+        "sabor":"salgado"
+    },
+        {
+        "id":3,
+        "nome":"sorvete",
+        "sabor":"doce"
+    },
+        {
+        "id":4,
+        "nome":"lanche",
+        "sabor":"salgado"
+    }
+]

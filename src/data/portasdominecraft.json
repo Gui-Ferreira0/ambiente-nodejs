@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nome":"porta de acacia",
+        "nota":"9/10"
+    },
+    {
+        "id":2,
+        "nome":"porta de oak",
+        "nota":"10/10"
+    },
+        {
+        "id":3,
+        "nome":"porta de bamboo",
+        "nota":"10/10"
+    },
+        {
+        "id":4,
+        "nome":"porta de birch",
+        "nota":"2/10"
+    }
+]

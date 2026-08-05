@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "nome":"papagaio",
+        "mamifero":"não"
+    },
+    {
+        "id":2,
+        "nome":"baleia",
+        "mamifero":"sim"
+    },    
+    {
+        "id":3,
+        "nome":"raposa",
+        "mamifero":"não"
+    },    
+    {
+        "id":4,
+        "nome":"gavião",
+        "mamifero":"não"
+    }
+]
